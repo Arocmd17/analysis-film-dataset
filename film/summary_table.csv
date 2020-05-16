@@ -1,0 +1,17 @@
+id,table_name,total_record
+1,actor,200
+2,address,603
+3,category,16
+4,city,600
+5,country,200
+6,customer,599
+7,film,1000
+8,film_actor,5462
+9,film_category,200
+10,film_text,1000
+11,inventory,4581
+12,language,6
+13,payment,16049
+14,rental,16044
+15,staff,2
+16,store,2
